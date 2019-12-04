@@ -6,3 +6,18 @@
 #categories-div{
   padding: 10px 10px 10px 10px;
 }
+.categories-img{
+  height: 100%;
+  width: 100%;
+}
+.category-holder{
+  max-height: 350px;
+  padding: 50px 50px 50px 50px;
+}
+
+.sant{
+  font-size: 65px !important;
+}
+.volcano-1-image{
+  max-height: 500px;
+}
