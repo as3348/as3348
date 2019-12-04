@@ -21,3 +21,24 @@
 .volcano-1-image{
   max-height: 500px;
 }
+
+.container {
+  margin-top: 20px;
+}
+
+.volcano-img {
+  border-radius: 25px;
+  width: inherit;
+  height: inherit;
+  object-fit: cover;
+  margin: 5px 5px 5px 5px;
+}
+
+.allows_anchoring {
+  position: absolute;
+}
+
+.anchored {
+  position: fixed;
+  bottom: 0px;
+}
