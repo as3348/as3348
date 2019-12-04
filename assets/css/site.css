@@ -1,0 +1,8 @@
+.carousel-image{
+  height: 500px;
+  width: auto;
+  object-fit: cover;
+}
+#categories-div{
+  padding: 10px 10px 10px 10px;
+}
